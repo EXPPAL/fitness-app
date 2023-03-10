@@ -2,10 +2,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/EXPPAL/fitness-app">
-    <h1>LUX</h1>
+    ![mobile](https://github.com/EXPPAL/mobilityscout-frontend/blob/main/img/mobilityscout/logo-Retina.png)
   </a>
 
-  <h3 align="center">Fitness APP</h3>
+  <h3 align="center">Logistics App</h3>
 
   <p align="center">
     An awesome html template with best design and layout!
@@ -34,9 +34,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![mobile](https://github.com/EXPPAL/fitness-app/blob/main/images/lux-fitness-gym.netlify.app_.png)
-
-This is the Fitness App template built with HTML
+![mobile](https://github.com/EXPPAL/mobilityscout-frontend/blob/main/img/mobilityscout-frontend.vercel.app_.png)
 
 ### Built With
 
