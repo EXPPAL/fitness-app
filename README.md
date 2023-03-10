@@ -36,7 +36,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![mobile](https://raw.githubusercontent.com/EXPPAL/fitness-app/main/images/person-7.jpg)
+![mobile](https://github.com/EXPPAL/fitness-app/blob/main/images/lux-fitness-gym.netlify.app_.png)
 
 <h3>This is the Fitness App template built with HTML</h3>
 
