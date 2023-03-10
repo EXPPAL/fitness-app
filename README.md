@@ -1,11 +1,14 @@
+# mobilityscout-frontend
+Mobilityscout Frontend Template
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/EXPPAL/fitness-app">
-    <img src="https://github.com/EXPPAL/mobilityscout-frontend/blob/main/img/mobilityscout/logo-Retina.png" alt="Logo" width="230" height="124">
+  <a href="https://github.com/EXPPAL/mobilityscout-frontend">
+    <h1>LUX</h1>
   </a>
 
-  <h3 align="center">Logistics App</h3>
+  <h3 align="center">Fitness APP</h3>
 
   <p align="center">
     An awesome html template with best design and layout!
@@ -34,7 +37,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![mobile](https://github.com/EXPPAL/mobilityscout-frontend/blob/main/img/mobilityscout-frontend.vercel.app_.png)
+![mobile](https://github.com/EXPPAL/fitness-app/blob/main/images/lux-fitness-gym.netlify.app_.png)
+
+This is the Fitness App template built with HTML
 
 ### Built With
 
