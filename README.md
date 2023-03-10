@@ -1,5 +1,3 @@
-# Lux-Fitness# fitness-app
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -38,13 +36,15 @@
 
 ![mobile](https://github.com/EXPPAL/fitness-app/blob/main/images/lux-fitness-gym.netlify.app_.png)
 
-<h3>This is the Fitness App template built with HTML</h3>
+This is the Fitness App template built with HTML
 
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-<h2>HTML</h2>
+- HTML
+- CSS
+- Javascript
 
 <!-- CONTRIBUTING -->
 ## Contributing
