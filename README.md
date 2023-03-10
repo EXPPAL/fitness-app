@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/EXPPAL/fitness-app">
-    ![mobile](https://github.com/EXPPAL/mobilityscout-frontend/blob/main/img/mobilityscout/logo-Retina.png)
+    <img src="https://github.com/EXPPAL/mobilityscout-frontend/blob/main/img/mobilityscout/logo-Retina.png" alt="Logo" width="230" height="124">
   </a>
 
   <h3 align="center">Logistics App</h3>
