@@ -36,7 +36,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-https://raw.githubusercontent.com/EXPPAL/fitness-app/main/images/person-7.jpg
+![mobile](https://raw.githubusercontent.com/EXPPAL/fitness-app/main/images/person-7.jpg)
 
 <h3>This is the Fitness App template built with HTML</h3>
 
